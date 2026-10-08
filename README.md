@@ -87,6 +87,37 @@ Management information systems supporting operational monitoring, reporting, and
 
 ---
 
+
+## 🚀 Personal Projects
+
+### Forever ERP
+A full-stack ERP application for inventory, quotations,
+delivery notes, invoicing, accounts, and reporting.
+
+🔗 [Project Showcase](https://github.com/saraswathipoornachandran/ERP-showcase) |
+[Live Application](https://forever.apptoryx.com/)
+
+### Construction Plot Navigator
+A web-based navigation system for locating construction
+plots and navigating between them using Google Maps.
+
+🔗 [Project Showcase](https://github.com/saraswathipoornachandran/construction-plot-navigator) |
+[Live Application](https://navi.apptoryx.com/)
+
+### Store & Inventory Management System
+A web application for managing store operations
+and inventory information.
+
+🔗 [Project Showcase](https://github.com/saraswathipoornachandran/store-inventory-management) |
+[Live Application](https://store.apptoryx.com/)
+
+> These are public project showcases.
+> Proprietary application source code is not published.
+
+
+---
+
+
 ## 🎯 Current Focus
 
 - Strengthening full-stack application development skills
